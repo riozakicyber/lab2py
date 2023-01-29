@@ -21,6 +21,7 @@ Pastikan setelah install, centang 'add python 3.x to path agar bisa dipanggil da
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/123881535/215339783-2f309d13-e1a2-4866-965e-fd6511d0d809.png)
 
+# Latihan 2
 
 - Selanjutnya adalah menampilkan angka dan menjumlahkan hasil penjumlahan dari dua buah variabel.
 
@@ -29,8 +30,7 @@ Pastikan setelah install, centang 'add python 3.x to path agar bisa dipanggil da
 Dari program diatas dapat diketahui bahwa 'a=2' menunjukan bahwa di dalam variabel a adalah 2, begitu juga dengan 'b=3' artinya di dalam variable b adalah 3. Untuk mencetak angka, gunakan format print, dan untuk menunjukan operasi penjumlahannya maka cetak terlebih dahulu tulisan nya lalu diikuti dengan tanda koma (,) dengan format penjumlahan dibelakangnya. Jangan lupa untuk save terlebih dahulu program yang dibuat agar bisa dijalankan.
 
 
-# Latihan 2
-
+# Latihan 3 
 
 - Pada poin selanjutnya yaitu menjalankan IDLE Python. Lalu disini kita akan membuat fungsi input, bertujuan untuk memasukkan nilai sebuah variable dari keyboard. dan menggunakan operasi aritmatika untuk variabel yang sudah di input.
 
@@ -43,7 +43,6 @@ Gambar diatas menunjukkan program dari input nilai variabel, mencetak nilai vari
 Gambar diatas merupakan output atau hasil dari program yang ada di gambar sebelumnya. masukkan terlebih dahulu angka pertama dan kedua untuk mengisi variabel a dan b yang masih kosong, maka akan ditampilkan untuk nilai variabel a dan b saat digabungkan dan dimasukkan ke dalam operasi aritmatika penjumlahan dan pembagian.
 
 
-# Latihan 3 
 
 
 - Selanjutnya menjalankan sebuah program python pada aplikasi pycharm. Download terlebih dahulu aplikasi pycharm di https://www.jetbrains.com/pycharm/ . Kemudian install dan pastikan lokasi file di folder perangkat kita. Selanjutnya buat file baru pada pycharm.
